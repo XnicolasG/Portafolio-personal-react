@@ -33,7 +33,6 @@ export const Lista = styled.li`
 export const Alist = styled.a`
     text-decoration: none;
     color: white;
+    
 `
-export const ItemsR = styled.img`
-    width: 6%;
-`
+
