@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {  ContImg, Frase, frase, Icono, Imagex, Principal, Saludo } from '../style/styledHome';
+import {  ContImg, Frase, Frase, Imagex, Principal, Saludo } from '../style/styledHome';
 
 export default class Home extends Component {
   render() {
