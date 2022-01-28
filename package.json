@@ -1,9 +1,10 @@
 {
-  "homepage": "https://github.com/XnicolasG/Portafolio-personal-react.git",
+  
   "name": "portareact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@formspree/react": "^2.2.4",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
@@ -21,9 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [

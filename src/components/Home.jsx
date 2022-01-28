@@ -4,7 +4,7 @@ import {  ContImg, Frase, Imagex, Principal, Saludo } from '../style/styledHome'
 export default class Home extends Component {
   render() {
     return (
-        <Principal>
+        <Principal id='inicio'>
             <div>
                 <Saludo>Este soy yo, Nicolás </Saludo>
                 <Frase>Desarrolador Frontend en proceso con Academia Geek  </Frase>

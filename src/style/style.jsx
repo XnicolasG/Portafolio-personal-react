@@ -22,7 +22,7 @@ margin-left: 15%;
 `
 export const ILista = styled.li`
 list-style: none;
-text-decoration: none;
+
 margin: 5%;
 color: white;
 cursor: pointer;

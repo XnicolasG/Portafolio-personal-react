@@ -4,7 +4,7 @@ import { ContDes, Descripcion, Hobbie, HobbieCard, HobbieCont, IIHbobbieCard, Im
 export default class Hobbies extends Component {
     render() {
         return (
-            <Hobbie>
+            <Hobbie id='hobbies'>
                 <Titulo>¿Que me apasiona?</Titulo>
                 <HobbieCont>
                     <HobbieCard>
