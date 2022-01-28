@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {  Boton, Area, FormMain, FormularioCont, Inputs, TituloForm } from '../style/StyledForm';
+import {  Area, FormMain, FormularioCont, Inputs, TituloForm } from '../style/StyledForm';
 import '../style/form.css'
 export const Formulario = ()=> {
 
