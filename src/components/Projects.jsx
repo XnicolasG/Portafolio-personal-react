@@ -16,7 +16,7 @@ export default class Projects extends Component {
         </DivCont>
         <PrincipalDiv>
           <Peli src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1642874465/Personal/capturaPeliculas_djehxl.png" alt="" />
-          <a target='_blank'href="https://github.com/academia-geek/aprendices-geek-entrenamiento-XnicolasG/tree/master/Modulo-3/Tarea-02"><Boton>Ver Proyecto</Boton></a>
+          <a target='_blank' rel="noreferrer" href="https://github.com/academia-geek/aprendices-geek-entrenamiento-XnicolasG/tree/master/Modulo-3/Tarea-02"><Boton>Ver Proyecto</Boton></a>
         </PrincipalDiv>
         <SecundarioDiv>
           <ContPagSec>
