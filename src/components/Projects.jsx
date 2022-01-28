@@ -21,15 +21,15 @@ export default class Projects extends Component {
         <SecundarioDiv>
           <ContPagSec>
             <PagSec src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1642874552/Personal/CapturaLanding_uuuv7k.png" alt="" />
-            <a target='_blank'href="https://xnicolasg.github.io/landing_page/"><Boton>Ver Proyecto</Boton></a>
+            <a target='_blank' rel="noreferrer" href="https://xnicolasg.github.io/landing_page/"><Boton>Ver Proyecto</Boton></a>
           </ContPagSec>
           <ContPagSec>
             <PagSec src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1642879589/Personal/CapturaRick_Morty_oxoqut.png" alt="" />
-            <a target="_blank" href="https://xnicolasg.github.io/Rick-y-Morty-API/"><Boton>Ver Proyecto</Boton></a>
+            <a target="_blank" rel="noreferrer" href="https://xnicolasg.github.io/Rick-y-Morty-API/"><Boton>Ver Proyecto</Boton></a>
           </ContPagSec>
           <ContPagSec>
             <PagSec src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1642874498/Personal/capturaDocumentacion_tgvu2m.png" alt="" />
-            <a target="_blank" href="https://xnicolasg.github.io/Documentaci-n_tecnica/"><Boton>Ver Proyecto</Boton></a>
+            <a target="_blank" rel="noreferrer" href="https://xnicolasg.github.io/Documentaci-n_tecnica/"><Boton>Ver Proyecto</Boton></a>
           </ContPagSec>
         </SecundarioDiv>
       </Proyectos>
